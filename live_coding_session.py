@@ -1,1 +1,0 @@
-# This is a live coding session for the job interview at Porsche Digital
