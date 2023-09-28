@@ -22,3 +22,4 @@ df2 = df[3:6]
 
 pd.concat([df1,df2])
 
+pd.read_csv("foo.csv")
